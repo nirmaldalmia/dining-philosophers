@@ -2,7 +2,7 @@
 
 [![screenshot](screenshot.png)](https://runway.systems/?model=github.com/David-Wobrock/runway-model-dining-philosophers)
 
-[try this model in Runway](https://runway.systems/?model=github.com/David-Wobrock/runway-model-dining-philosophers)
+[try this model in Runway](https://runway.systems/?model=github.com/nirmaldalmia/dining-philosophers)
 
 This is a model of [the dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) for
 [Runway](https://github.com/salesforce/runway-browser). It includes a
@@ -10,11 +10,3 @@ This is a model of [the dining philosophers problem](https://en.wikipedia.org/wi
 which can be used with
 [runway-browser](https://github.com/salesforce/runway-browser) to produce an
 visualization.
-
-## Dining philosopher
-
-To solve this classical problem, I have opted for symmetry breaking.
-
-##  Made by
-
-David Wobrock, for DD2443 Parallel and Distributed Computing at KTH.
